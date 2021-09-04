@@ -18,7 +18,7 @@
 </audio>
 
 
-<img src="https://github.com/pan-kevin/pan-kevin.github.io/blob/main/mmexport1628946031398.jpg" width="200" height="250" align="middle" />
+<img src="https://raw.githubusercontent.com/pan-kevin/pan-kevin.github.io/main/mmexport1628946031398.jpg" width="200" height="250" align="middle" />
 
 我突发奇想，假如我的小狗点点会说话，那该多好啊！
 
