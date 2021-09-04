@@ -12,9 +12,11 @@
 
 ![avatar](https://gimg2.baidu.com/image_search/src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20170909%2F19f304df1ef648efb1c8366dc2e9f33f.gif&refer=http%3A%2F%2F5b0988e595225.cdn.sohucs.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1633345331&t=75ad16a26e00dbfbd0d507d0e87b2a76)
 
-## 假如小狗会说话
 
-![avatar](https://github.com/pan-kevin/pan-kevin.github.io/blob/main/mmexport1628946031398.jpg)
+
+## 假如小狗会说话
+<img src="https://github.com/pan-kevin/pan-kevin.github.io/blob/main/mmexport1628946031398.jpg" width="200" height="200" align="middle" />
+
 我突发奇想，假如我的小狗点点会说话，那该多好啊！
 
 当我放学回家，它早早守在门口等我，嘤嘤地叫，尾巴摇得像螺旋桨一样。它开心地追着尾巴团团转，还会一蹦三尺高来扑我，有时跳太高还会摔一跤。假如点点会说话，它肯定在说：“你回来啦！你去哪了，让我等这么久？快去洗了手，陪我玩！”
