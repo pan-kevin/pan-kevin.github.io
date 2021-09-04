@@ -4,12 +4,6 @@
 
 
 
-<audio id="audio" controls="" preload="none">
-<source id="mp3" src="https://github.com/pan-kevin/pan-kevin.github.io/raw/main/jrddhsh.m4a">
-</audio>
-
-
-
 
 
 ![avatar](https://gimg2.baidu.com/image_search/src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20170909%2F19f304df1ef648efb1c8366dc2e9f33f.gif&refer=http%3A%2F%2F5b0988e595225.cdn.sohucs.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1633345331&t=75ad16a26e00dbfbd0d507d0e87b2a76)
@@ -17,6 +11,13 @@
 
 
 ## 假如小狗会说话
+
+
+<audio id="audio" controls="" preload="none">
+<source id="mp3" src="https://github.com/pan-kevin/pan-kevin.github.io/raw/main/jrddhsh.m4a">
+</audio>
+
+
 <img src="https://github.com/pan-kevin/pan-kevin.github.io/blob/main/mmexport1628946031398.jpg" width="200" height="250" align="middle" />
 
 我突发奇想，假如我的小狗点点会说话，那该多好啊！
