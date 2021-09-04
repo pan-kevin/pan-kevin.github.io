@@ -2,7 +2,9 @@
 
 欢迎你来到Kevin的地盘哦
 
-
+<audio id="audio" controls="" preload="none">
+<source id="mp3" src="https://c.y.qq.com/base/fcgi-bin/u?__=vGQiTQ4I">
+</audio>
 
 
 
@@ -12,7 +14,7 @@
 
 ## 假如小狗会说话
 
-
+Kevin的朗诵
 <audio id="audio" controls="" preload="none">
 <source id="mp3" src="https://github.com/pan-kevin/pan-kevin.github.io/raw/main/jrddhsh.m4a">
 </audio>
